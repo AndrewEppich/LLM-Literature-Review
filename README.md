@@ -227,10 +227,10 @@ Here's an overview of the key milestones and developments in the history of inte
 ### Conclusion:
 Interpreted languages, especially Python, have become central to the machine learning ecosystem due to their flexibility, ease of use, and ability to integrate with high-performance compiled libraries. The history of interpreted languages in machine learning reflects the broader evolution of the field, where accessibility, rapid prototyping, and rich libraries have enabled massive growth in research and applications.
 
-## Refrences:
+## References:
 
-https://www.mdpi.com/2078-2489/11/4/193
-chatgpt.com
+* https://www.mdpi.com/2078-2489/11/4/193
+* chatgpt.com
 
 
 
